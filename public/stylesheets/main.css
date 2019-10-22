@@ -1,0 +1,19 @@
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+.checked {
+    color: orange;
+}
+
+.hideButton {
+	display: none;
+}
